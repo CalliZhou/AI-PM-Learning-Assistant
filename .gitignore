@@ -1,0 +1,13 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# 本地向量库
+chroma_db/
+# Streamlit secrets (API keys)
+# Vector database (local Chroma DB)
+# Python cache
+__pycache__/
+*.pyc
+# OS metadata
+.DS_Store
+Thumbs.db
